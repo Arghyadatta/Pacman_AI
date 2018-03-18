@@ -1,7 +1,6 @@
 # Pacman AI
 
-Based on Washington University's CSE 511: Introduction to Artificial Intelligence course.
-
+Based on CS-188 AI course at University of Berkeley
 ## Usage
 ### ghostbusters
 ```
